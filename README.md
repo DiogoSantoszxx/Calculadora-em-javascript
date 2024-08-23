@@ -3,15 +3,17 @@ Uma calculadora em JavaScript é um aplicativo interativo que permite aos usuár
 
 Aqui está uma descrição geral de como essa calculadora pode ser implementada:
 
-HTML:
+# HTML:
 
 Estrutura: A interface da calculadora geralmente inclui um display para mostrar os números e os resultados das operações, além de botões para os dígitos (0-9) e operadores (+, -, *, /, =).
-Botões: Cada botão é representado por um elemento <button> que, quando clicado, aciona uma função em JavaScript.
-CSS:
+Botões: Cada botão é representado por um elemento <button> que, quando clicado, aciona uma função em JavaScript. 
+
+# CSS:
 
 Estilo: O CSS é utilizado para definir a aparência da calculadora, incluindo a disposição dos botões, o tamanho do display, as cores, e outros aspectos visuais.
 Responsividade: O design pode ser ajustado para diferentes tamanhos de tela, garantindo que a calculadora funcione bem em dispositivos móveis e desktop.
-JavaScript:
+
+# JavaScript:
 
 Lógica: O JavaScript é responsável por implementar a lógica de cálculo. Isso envolve capturar os cliques nos botões, atualizar o display, e realizar as operações matemáticas quando o usuário pressiona o botão de igual (=).
 Funções: As funções principais incluem a adição de números ao display, a execução das operações matemáticas, e a limpeza do display para uma nova operação.
